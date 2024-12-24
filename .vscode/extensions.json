@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "waderyan.gitblame",
+        "christian-kohler.path-intellisense",
+        "aaron-bond.better-comments"
+    ]
+}
