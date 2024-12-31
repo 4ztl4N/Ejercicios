@@ -1,0 +1,4 @@
+objetini
+
+
+print(objetini)
