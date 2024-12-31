@@ -1,4 +1,0 @@
-objetini
-
-
-print(objetini)

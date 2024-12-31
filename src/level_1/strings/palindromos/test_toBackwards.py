@@ -3,7 +3,7 @@ import unittest
 from toBackwards import palindromo
 from toBackwards import palindrom
 
-class TestToUpperCase(unittest.TestCase):
+class TestToBackwards(unittest.TestCase):
 
     def test_empty_word(self):
         self.assertEqual(palindromo(""), True)
